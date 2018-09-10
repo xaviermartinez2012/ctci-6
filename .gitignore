@@ -1,3 +1,4 @@
 development/*
 !development/src/
 .vscode/settings.json
+*.pdf
