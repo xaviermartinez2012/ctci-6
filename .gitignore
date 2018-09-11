@@ -2,3 +2,4 @@ development/*
 !development/src/
 .vscode/settings.json
 *.pdf
+.DS_Store
