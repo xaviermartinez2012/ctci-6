@@ -25,7 +25,7 @@ def fib_memo(n_th, cache):
 
 def main():
     '''Compares implementations of Nth fibonacci number calculators'''
-    test_n_values = range(30)
+    test_n_values = range(2, 33)
     fibonacci_cumm_time = fibonacci_memo_cumm_time = 0
     remaining_output = []
     for n_value in test_n_values:
